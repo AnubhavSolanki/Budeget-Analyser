@@ -11,7 +11,7 @@ Just clone the repo and open the index.html file.
 
 ## ScreenShots : 
 ![SS 1](https://github.com/AnubhavSolanki/Budget-Analyser/blob/master/ScreenShots/1.png?raw=true)  
-![SS 2](https://github.com/AnubhavSolanki/Budget-Analyser/blob/master/ScreenShots/2.png?raw=true=10x)   
-![SS 3](https://github.com/AnubhavSolanki/Budget-Analyser/blob/master/ScreenShots/3.png?raw=true=10x)  
-![SS 4](https://github.com/AnubhavSolanki/Budget-Analyser/blob/master/ScreenShots/4.png?raw=true=10x)  
+![SS 2](https://github.com/AnubhavSolanki/Budget-Analyser/blob/master/ScreenShots/2.png?raw=true)   
+![SS 3](https://github.com/AnubhavSolanki/Budget-Analyser/blob/master/ScreenShots/3.png?raw=true)  
+![SS 4](https://github.com/AnubhavSolanki/Budget-Analyser/blob/master/ScreenShots/4.png?raw=true)  
 
